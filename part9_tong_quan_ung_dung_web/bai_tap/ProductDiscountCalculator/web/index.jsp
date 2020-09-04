@@ -12,7 +12,7 @@
   <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-<h2>Product</h2>
+<h2 style="text-align: center">Product</h2>
 <form method="post" action="/ProductDiscountCalculator_war_exploded/product">
   <label>Product Description: </label><br/>
   <input type="text" name="des"  value=""/><br/>
